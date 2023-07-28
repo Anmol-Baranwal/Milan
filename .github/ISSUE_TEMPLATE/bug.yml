@@ -55,6 +55,9 @@ body:
         - label: "I am a GSSoC23 contributor (blank for no)".
           required: false
 
+        - label: "I am a GSSoC23 contributor."
+          required: false
+
   - type: markdown
     attributes:
       value: |
